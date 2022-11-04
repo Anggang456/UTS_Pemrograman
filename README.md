@@ -1,13 +1,3 @@
-//Kelompok 4
-// M. Toyyibal Ardani
-// Rio Anugrah Putra
-// Imam Wardana
-// Nudia Isma Anisa
-// Galuh Ayu Oktaviani
-// Jeni Novitasari
-
-
-
 import 'dart:io';
 import 'package:image_picker_for_web/image_picker_for_web.dart';
 import 'package:intl/intl.dart';
